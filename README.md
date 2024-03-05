@@ -12,16 +12,17 @@
 
 아래 파일의 사본을 만들어 작성한 후, 인쇄 → PDF로 저장하여 파일 이름을 고유학번_이름_연구계획서.pdf로 수정한 뒤 ryankwon@ieee.org로 제출해주세요.
 
-https://docs.google.com/document/d/1ToVpSNOkgHSh7lsgafnYc3fDUoJljoOJUsZEHINI_ds/edit?usp=sharing
+[https://docs.google.com/document/d/1ToVpSNOkgHSh7lsgafnYc3fDUoJljoOJUsZEHINI_ds/edit?usp=sharing](https://docs.google.com/document/d/1ToVpSNOkgHSh7lsgafnYc3fDUoJljoOJUsZEHINI_ds/edit?usp=sharing)
 
 <br/>
 <img width="379" alt="Screenshot 2024-03-04 at 9 43 01 AM" src="https://github.com/hana-academy-seoul/scitech/assets/93381265/40732f9f-13a1-419d-b2b3-ae70b459b198">
 <br/>
 
-
 자신이 평소에 관심을 가지고 있었던 연구 주제에 대해 한 페이지 이내로, 양식을 벗어나지 않는 한 자유로운 방법으로 작성하여 제출해주세요.
 
 제출 일시는 03/09(토) 22시 입니다. 
+
+여러분의 새로운 도전을 응원합니다 :)
 
 감사합니다.
 
