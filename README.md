@@ -14,11 +14,9 @@
 
 https://docs.google.com/document/d/1ToVpSNOkgHSh7lsgafnYc3fDUoJljoOJUsZEHINI_ds/edit?usp=sharing
 
-
-
+<br/>
 <img width="379" alt="Screenshot 2024-03-04 at 9 43 01 AM" src="https://github.com/hana-academy-seoul/scitech/assets/93381265/40732f9f-13a1-419d-b2b3-ae70b459b198">
-
-
+<br/>
 
 자신이 평소에 관심을 가지고 있었던 연구 주제에 대해 한 페이지 이내로, 양식을 벗어나지 않는 한 자유로운 방법으로 작성하여 제출해주세요.
 
