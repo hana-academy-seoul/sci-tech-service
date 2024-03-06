@@ -14,7 +14,6 @@
 
 [https://docs.google.com/document/d/1ToVpSNOkgHSh7lsgafnYc3fDUoJljoOJUsZEHINI_ds/edit?usp=sharing](https://docs.google.com/document/d/1ToVpSNOkgHSh7lsgafnYc3fDUoJljoOJUsZEHINI_ds/edit?usp=sharing)
 
-<br/>
 <img width="379" alt="Screenshot 2024-03-04 at 9 43 01 AM" src="https://github.com/hana-academy-seoul/scitech/assets/93381265/40732f9f-13a1-419d-b2b3-ae70b459b198">
 <br/>
 
